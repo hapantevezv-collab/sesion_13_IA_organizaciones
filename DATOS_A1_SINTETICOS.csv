@@ -1,0 +1,37 @@
+﻿solicitud_id,canal,categoria_registrada,categoria_validada,min_clasificacion,reasignaciones,prioridad,resuelto
+SIM-001,Correo,Facturación,Facturación,9,1,Baja,No
+SIM-002,Teléfono,Información general,Información general,22,0,Alta,Sí
+SIM-003,Chat,Reclamación,Reclamación,27,0,Media,Sí
+SIM-004,Correo,Otro,Soporte técnico,21,1,Baja,Sí
+SIM-005,Correo,,Cambio de cita,13,1,Alta,No
+SIM-006,Correo,Soporte técnico,Soporte técnico,17,2,Media,No
+SIM-007,Chat,Cambio de cita,Cambio de cita,16,0,Baja,No
+SIM-008,Correo,Facturación,,9,0,Baja,Sí
+SIM-009,Teléfono,Cambio de cita,Información general,10,1,Alta,Sí
+SIM-010,Formulario,Reclamación,Reclamación,6,0,Media,Sí
+SIM-011,Formulario,Información general,Información general,22,0,Baja,No
+SIM-012,Teléfono,Reclamación,Reclamación,27,0,Alta,Sí
+SIM-013,Teléfono,Otro,Soporte técnico,21,1,Media,No
+SIM-014,Chat,Cambio de cita,Cambio de cita,10,0,Baja,Sí
+SIM-015,Correo,Facturación,Facturación,11,0,Baja,Sí
+SIM-016,Teléfono,Cambio de cita,Cambio de cita,16,0,Alta,Sí
+SIM-017,Correo,,Facturación,12,1,Media,No
+SIM-018,Chat,Información general,Información general,13,2,Baja,No
+SIM-019,Correo,Reclamación,Reclamación,6,0,Alta,No
+SIM-020,Correo,Información general,Soporte técnico,22,0,Media,Sí
+SIM-021,Formulario,Reclamación,Reclamación,30,1,Baja,Sí
+SIM-022,Formulario,Soporte técnico,Soporte técnico,18,0,Baja,Sí
+SIM-023,Teléfono,Cambio de cita,Cambio de cita,10,0,Alta,No
+SIM-024,Formulario,Otro,Facturación,14,1,Media,Sí
+SIM-025,Chat,Información general,Información general,19,1,Baja,No
+SIM-026,Correo,Facturación,,9,0,Alta,Sí
+SIM-027,Teléfono,Información general,Información general,13,2,Media,No
+SIM-028,Chat,Facturación,Reclamación,6,0,Baja,Sí
+SIM-029,Chat,Soporte técnico,Soporte técnico,25,1,Baja,No
+SIM-030,Correo,,Cambio de cita,27,0,Alta,Sí
+SIM-031,Correo,Soporte técnico,Soporte técnico,18,0,Media,No
+SIM-032,Chat,Otro,Cambio de cita,13,1,Baja,Sí
+SIM-033,Formulario,Facturación,Facturación,14,1,Alta,Sí
+SIM-034,Teléfono,Información general,Información general,16,0,Media,Sí
+SIM-035,Formulario,Reclamación,,15,2,Baja,No
+SIM-036,Formulario,Información general,Información general,7,0,Baja,Sí
